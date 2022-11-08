@@ -3,7 +3,7 @@
  * @author Hector Hectorhernandez, PhD
  * Date: 11/07/2022 [M]
  *
- */
+ ***************************************************************/
 public class Exercise06_13 {
 	public static void main(String[] args) {
 		System.out.printf("%4s%20s\n","i","m(i)");
